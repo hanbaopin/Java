@@ -6,7 +6,7 @@ import java.util.Map;
 
 /*******************
 *@ClassName   Map.java
-*@Date        2019年4月29日-上午9:47:12
+*@Date        2019脛锚4脭脗29脠脮-脡脧脦莽9:47:12
 *@Author      BP
 *@Version     V8
 *@Description
@@ -14,7 +14,7 @@ import java.util.Map;
 public class MapTest {
 public static void main(String[] args) {
 	System.out.println("aaa");
-		
+	System.out.println("鐜嬭�呰崳鑰�");	
 	}
 
 
